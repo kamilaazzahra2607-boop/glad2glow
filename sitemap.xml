@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <!-- Home page -->
+  <url>
+    <loc>https://kamilaazzahra2607-boop.github.io/glad2glow/</loc>
+    <lastmod>2025-12-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <!-- Section Produk (anchor) -->
+  <url>
+    <loc>https://kamilaazzahra2607-boop.github.io/glad2glow/#Produk</loc>
+    <lastmod>2025-12-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Section Tentang -->
+  <url>
+    <loc>https://kamilaazzahra2607-boop.github.io/glad2glow/#Tentang</loc>
+    <lastmod>2025-12-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Section Kontak -->
+  <url>
+    <loc>https://kamilaazzahra2607-boop.github.io/glad2glow/#Kontak</loc>
+    <lastmod>2025-12-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+</urlset>
