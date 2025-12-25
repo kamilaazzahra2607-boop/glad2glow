@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://kamilaazzahra2607-boop.github.io/glad2glow/sitemap.xml
